@@ -22,19 +22,19 @@ Olá! Sou Arthur Musa, um desenvolvedor apaixonado por criar soluções inovador
 
 - Cursos e Certificações em:
 
-MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
-AWS Certified Solutions Architect - Associate
-Google Cloud Platform Fundamentals: Core Infrastructure
-IBM Data Science Professional Certificate
-Oracle Certified Java Programmer (OCJP)
-Scrum Alliance Certified ScrumMaster (CSM)
-Project Management Professional (PMP) - PMI
-Udacity Nanodegree in Full Stack Web Developer
-Coursera Deep Learning Specialization by deeplearning.ai
-edX Professional Certificate in Front End Web Development by W3C
-Codecademy Data Scientist Career Path
-freeCodeCamp Responsive Web Design Certification
-Udemy Complete Web Developer Bootcamp
+- MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
+- AWS Certified Solutions Architect - Associate
+- Google Cloud Platform Fundamentals: Core Infrastructure
+- IBM Data Science Professional Certificate
+- Oracle Certified Java Programmer (OCJP)
+- Scrum Alliance Certified ScrumMaster (CSM)
+- Project Management Professional (PMP) - PMI
+- Udacity Nanodegree in Full Stack Web Developer
+- Coursera Deep Learning Specialization by deeplearning.ai
+- edX Professional Certificate in Front End Web Development by W3C
+- Codecademy Data Scientist Career Path
+- freeCodeCamp Responsive Web Design Certification
+- Udemy Complete Web Developer Bootcamp
 
 
 ## Contato
