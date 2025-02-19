@@ -1,0 +1,38 @@
+# Flash Proteção Auto
+
+Jornada white label para operações de seguros de automóveis, incluindo meios de pagamento e emissão de apólices.
+
+## Funcionalidades
+
+- Integração com gateways de pagamento para processamento de cobranças dos seguros
+- Geração automatizada de apólices de seguros de automóveis após confirmação do pagamento
+- Área administrativa para gestão de clientes, apólices e pagamentos
+- APIs para integração com sistemas externos dos parceiros
+- Frontend responsivo e personalizável para cada seguradora parceira
+
+## Tecnologias utilizadas
+
+- Node.js e Express para o backend
+- React para o frontend
+- MongoDB para banco de dados
+- Integração com Stripe para processamento de pagamentos
+- Hospedagem na AWS com EC2 e S3
+
+## Desafios e soluções
+
+- Garantir a segurança e privacidade dos dados dos clientes e apólices
+  - Implementação de criptografia para dados sensíveis
+  - Controle de acesso rigoroso na área administrativa
+- Lidar com diferentes requisitos e personalizações para cada seguradora parceira
+  - Arquitetura modular e parametrizável
+  - Temas e configurações específicas por cliente
+
+## Aprendizados
+
+- Aprofundei meus conhecimentos em arquitetura de microsserviços 
+- Aprendi a lidar com requisitos de segurança e privacidade em sistemas financeiros
+- Melhorei minhas habilidades no desenvolvimento de APIs robustas e escaláveis
+- Ganhei experiência na integração com gateways de pagamento como o Stripe
+
+## Screenshot
+https://www.olga.digital/flash-protecao-auto
